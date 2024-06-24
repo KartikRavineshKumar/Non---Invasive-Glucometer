@@ -1,0 +1,4 @@
+The dataset has 602 columns where voltages from sensor 1 is from 1 to 201 readings, sensor 2 is from 202 to 403 and sensor 3 is from 403 to 602. The dataset had 461 patients and after omitting the patients which didn’t have the ads1115 output a dataset with 437 patients was left.
+The dataset was then randomly divided into 80 percent and 20 percent where 80 percent was for training and 20 percent was for testing data. 
+The model was trained using the all the optimizable app from the three families.
+Ensemble Model gives the best for phase 1 normalized dataset with RMSE value of 3.39 for test data.
