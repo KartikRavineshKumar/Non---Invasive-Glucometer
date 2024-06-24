@@ -1,0 +1,8 @@
+The categorial dataset was used for the exploration of Data and the voltage Data was used for the model training
+A linear dimensionality reduction method called Principal Component Analysis (PCA) can reduce a dataset's dimensionality while keeping most of its variation. 
+It locates principal components, orthogonal vectors that represent the data's greatest variance. PCA is fast and utilized for exploratory data analysis and feature extraction. Principal components are sorted by explained variance to reduce dimensionality by preserving only the top components that capture most data variability. 
+
+High-dimensional data can be shown in 2D or 3D using the nonlinear dimensionality reduction method t-Distributed Stochastic Neighbor Embedding (t-SNE). It models pairwise data point similarities in a high-dimensional space and displays them in a lower-dimensional space. Since it maintains local relationships between data points, t-SNE is effective for visualizing clusters or related data points. Many use it for clustering, visualization, and exploratory data analysis. 
+
+The multivariate statistical method canonical correlation analysis (CCA) examines data relationships. It finds the canonical variables—linear combinations of each set's variables—that maximize correlation. Psychology, neurology, and genetics employ CCA to uncover correlations between measurement or feature categories. Dimensionality reduction can be achieved by reducing each set of variables' dimensionalities to a smaller number of canonical variables that include most of the associated information. 
+
