@@ -1,0 +1,4 @@
+This Phase contains the categorical Dataset with a total of 10 features as follows:
+Smoker, non-smoker, Height, Weight, BMI, Glucose in mmol/L, Diabetic, non-diabetic, Age, gender, SpO2. 
+After removing the number of missing data from 461 patients to 431 patients was left.
+In addition to that SpO2 level and heart rate was removed from the data table since plenty of data was missing from the columns.
